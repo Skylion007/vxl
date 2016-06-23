@@ -94,3 +94,5 @@ add_subdirectory(volm)
 
 # kd nearest neighbor
 add_subdirectory(bnabo)
+
+add_subdirectory(bcon)
